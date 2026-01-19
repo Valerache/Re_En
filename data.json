@@ -1,0 +1,83 @@
+{
+  "contact": {
+    "email": "valerachechin@gmail.com",
+    "address": "Michelstadter Weg 77C, 13587 Berlin",
+    "phone": "+49 176 355 19 613",
+    "birthdate": "24 März 1972",
+    "nationality": "Ukrainisch"
+  },
+  "name": "Valerii Chechin",
+  "specialization": "Technischer Spezialist für Audio-/Videotechnik, Sicherheitssysteme und Automatisierung",
+  "kompetenzen": [
+    "High-End Audio/Video & Heimkinos (Steinway Lyngdorf, Lyngdorf Audio, M&K Sound)",
+    "Sicherheitstechnik (Videoüberwachung, Zugangskontrolle, Alarmsysteme)",
+    "Automatisierung & Smart Home (Control4, HDL Buspro, Grundkenntnisse in KNX)",
+    "Gewerbliche Installationen (Beschallungssysteme, Multiroom-Setups, AV-Integration)",
+    "Konferenz- & Event-Technik (Projektionstechnik, professionelle Beschallung)",
+    "Elektronikproduktion (Montage, Löten, Prüfung von Bauteilen)",
+    "Technische Projektleitung & Kundenbetreuung (Planung bis Wartung)",
+    "Weiterbildungsbereitschaft (Offen für neue Technologien und Zertifizierungen)"
+  ],
+  "sprachkenntnisse": [
+    "Deutsch: Gute Kenntnisse (B1)",
+    "Englisch: Grundkenntnisse (A2)",
+    "Ukrainisch: Muttersprache (C1)",
+    "Russisch: Fortgeschritten (C1)"
+  ],
+  "arbeitszeit": [
+    "Vollzeit",
+    "Teilzeit",
+    "Flexible Arbeitszeiten"
+  ],
+  "fuhrerschein": [
+    "Klasse B",
+    "Klasse C"
+  ],
+  "berufserfahrung": [
+    {
+      "title": "Technischer Spezialist für Audio-/Videotechnik, Sicherheitssysteme und Automatisierung",
+      "company": "Gramophone",
+      "location": "Odesa, Ukraine",
+      "dates": "1996 – 2022",
+      "tasks": [
+        "Planung, Montage und Umsetzung von über 50 Projekten für private und gewerbliche Objekte: Heimkinos, Multiroom-Systeme, Konferenz- und Präsentationslösungen",
+        "Projektierung, Installation und Integration von Audio-/Videosystemen, Automatisierungssystemen (Control4, HDL Buspro) und Sicherheitssystemen mit aktiver Beteiligung an den Montagearbeiten",
+        "Überwachung und Leitung des Prozesses: von der Planung und Abstimmung der Dokumentation bis zur finalen Inbetriebnahme und Übergabe der Objekte",
+        "Offizieller Showroom Gramophone Odesa (Steinway Lyngdorf, Lyngdorf Audio): Vollständige Realisierung eines Premium-Heimkinos mit Steinway Lyngdorf: motorisierte Leinwände, 4K-Projektoren, Premium-Lautsprechersysteme",
+        "Präsentation von Lösungen auf Basis von Lyngdorf Audio und M&K Sound für private Installationen",
+        "Integration von automatisiertem Management: Beleuchtung, Klimaregelung, Multimedia und Sicherheitssysteme (Control4)",
+        "Gewerbliche Projekte: Bristol Hotel 5* Odesa Windsor Grand Ballroom: Kompletter Projektzyklus – Planung, Geräteauswahl, Montage und Installation eines Martin Audio-Soundsystems für Konferenzräume und Großveranstaltungen; Integration eines Präsentationssystems – kommerzieller Projektor und motorisierte Leinwand für Veranstaltungen und Konferenzen",
+        "Gewerbliche Projekte: Kadorr Hotel & Resort (Odessa): Planung, Montage und Installation eines Multiroom-Systems mit 22 unabhängigen Audiozonen auf Control4-Basis; umfassende Klanggestaltung für Restaurant, Fitnesscenter und Kosmetikräume; hybride Systemsteuerung – Wandpaneele und Tablets mit zentraler Steuerung"
+      ]
+    },
+    {
+      "title": "Elektronikmontage-Techniker",
+      "company": "Novokakhovsky Instrumentenbauwerk „Sokol“",
+      "location": "Ukraine",
+      "dates": "1989 – 1990",
+      "tasks": [
+        "Montage und Lötarbeiten an elektronischen Komponenten in der Produktionslinie",
+        "Prüfung und Diagnostik elektronischer Baugruppen vor der Weiterverarbeitung",
+        "Arbeiten nach Schaltplänen und technischen Zeichnungen",
+        "Qualitätskontrolle der Baugruppen im Rahmen des Produktionsprozesses"
+      ]
+    }
+  ],
+  "ausbildung": {
+    "degree": "Hochschulabschluss in Radioelektronik",
+    "university": "Odessa Staatliche Polytechnische Universität",
+    "location": "Odesa, Ukraine",
+    "dates": "Sep 1990 – Aug 1995"
+  },
+  "zertifizierungen": [
+    "Control4 (Schulung bei Melodia Ltd.)",
+    "HDL Buspro (Schulung bei Smarttech Ukraine GmbH)",
+    "HTML, CSS (GoIT)"
+  ],
+  "projekte": [
+    { "title": "Beautiful Showroom in Ukraine" },
+    { "title": "Bristol Hotel 5* Odesa Windsor Grand Ballroom" },
+    { "title": "Kadorr Hotel & Resort" },
+    { "title": "Creating Joy in a War-Torn Country" }
+  ]
+}
